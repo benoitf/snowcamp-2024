@@ -1,3 +1,3 @@
 # snowcamp-2024
 
-Lionk to the presentation slides: [snowcamp2024.pdf](Podman%20-%20SnowCamp.io%202024.pdf)
+Link to the presentation slides: [snowcamp2024.pdf](Podman%20-%20SnowCamp.io%202024.pdf)
